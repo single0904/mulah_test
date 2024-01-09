@@ -1,1 +1,1 @@
-web: streamlit ./mulah_test.py
+web: sh setup.sh && streamlit run mulah_test.py
