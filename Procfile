@@ -1,0 +1,1 @@
+web: streamlit ./mulah_test.py
